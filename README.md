@@ -25,3 +25,4 @@
 ### TO-DO:
 - [ ] Create automated way to create projects
 - [ ] Add nest g style of command, to create components, services, databases, etc...
+- [ ] Add git repo commands
