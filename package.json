@@ -1,11 +1,11 @@
 {
-  "name": "template-cli",
+  "name": "project",
   "version": "1.0.0",
   "description": "Project for instantiating projects via cli",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "template-cli": "./index.js"
+    "project": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
