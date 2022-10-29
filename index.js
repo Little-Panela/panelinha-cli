@@ -36,4 +36,5 @@ inquirer.prompt(QUESTIONS).then(answers => {
   fs.mkdirSync(`${CURR_DIR}/${projectName}`);
 
   createDirectoryContents(templatePath, projectName);
+  console.log(`cd ${projectName} && npm i`)
 });
